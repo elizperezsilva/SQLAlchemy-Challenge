@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-Module 10 sqlalchemy challenge - Elizabeth Perez Silva
+Module 10 SQL Alchemy challenge - Elizabeth Perez Silva
 
 ## Background
 
@@ -33,3 +33,7 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 9. For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
 10. For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
+# Code Source
+- Lecture videos rewatched through Zoom source
+- Module 10 solutions
+- Starter code provided with resources
